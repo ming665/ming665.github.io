@@ -1,2 +1,0 @@
-webpackJsonp([4],{"2qyq":function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0});for(var s=t("zNUS"),o=t.n(s),c=(o.a.Random,[]),r=0;r<20;r++)c.push(r);var p={code:200,data:{page:1,pageSize:20,list:c},msg:"成功",status:1};o.a.mock("api/search/category","get",p)}},["2qyq"]);
-//# sourceMappingURL=mock.91d903381bea102ee603.js.map
